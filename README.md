@@ -21,4 +21,5 @@ El primer paso para el mapeo de los edificios fue el planeamiento y creación de
 Posteriormente se realizó un trabajo de campo en el cual se visitaron los distintos edificios para comprobar la localización y recolectar los datos del formulario. El llenado de los formularios se realizó por medio de la aplicación QField (ver figura 1). 
  
 **Figura 1.** Formulario en QField. 
-![]()
+ 
+![img1tarea1](https://user-images.githubusercontent.com/111781085/190348543-af6c2199-0d77-4f72-b95c-93b5864e0406.png)
