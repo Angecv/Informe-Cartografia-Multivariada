@@ -22,4 +22,42 @@ Posteriormente se realizó un trabajo de campo en el cual se visitaron los disti
  
 **Figura 1.** Formulario en QField. 
  
-![img1tarea1](https://user-images.githubusercontent.com/111781085/190348543-af6c2199-0d77-4f72-b95c-93b5864e0406.png)
+ ![](https://user-images.githubusercontent.com/111781085/190348543-af6c2199-0d77-4f72-b95c-93b5864e0406.png)
+ 
+Por la naturaleza de la información, en ocasiones esta debía ser solicitada al personal administrativo de los edificios correspondientes. En el caso de los edificios destinados a investigación, estos presentan un acceso más restringido para el público general, mientras que los destinados a educación tienen apertura pública. Una vez recolectados los datos, en QGIS se creó una simbología que corresponde al tipo de uso del edificio, ya sea; investigación, educación, etc. La creación del mapa web se llevó a cabo en QGIS con el complemento: Qgis2web. Este complemento permite exportar las capas de un entorno de trabajo de QGIS a una página web en donde se puede observar proveniente de SIG sin la necesidad de instalar ningún programa, solamente descargando la carpeta que contiene el mapa web. 
+ 
+## Resultados. 
+ 
+Al representar los edificios de la finca dos de la Universidad de Costa Rica a través de un geo visualizador, el mapa web se ve de la siguiente manera: 
+ 
+**Figura 2.** Vista del mapa web de los edificios de la finca dos, UCR. 
+ 
+ ![](https://user-images.githubusercontent.com/111781085/190355019-4c0b5748-86be-47c4-8bf1-ea6db0278643.png)
+
+El geo visualizador web, permite también acceder a información general clave, sobre estos edificios, para las personas que los visitan. Por ejemplo, la Facultad de Ciencias Sociales (ver figura 3) cuenta con hasta 6 pisos, medidas de seguridad, salas de estudio y biblioteca; además, se puede notar que está contigua a auditorios de la Ciudad de la Investigación y frente a la Casa Infantil universitaria (guardería).La información accesible corresponde a lo siguiente (ver figura 3): 
+- Nombre
+- Categoría
+- Cantidad de pisos
+- Salidas de emergencia
+- Equipo de emergencia
+- Soda
+- Área de estudio
+- Biblioteca
+- *[Contacto](https://www.ucr.ac.cr/directorio/) 
+ 
+*En el enlace puede acceder al directorio UCR, para mayor información sobre los edificios y actividades realizadas en estos, en finca dos. 
+  
+**Figura 3.** Vista de información desplegable en el mapa web, de los edificios de la finca dos, UCR. 
+ 
+ ![](https://user-images.githubusercontent.com/111781085/190358975-0f30c894-9d7a-49f4-a2a7-20c540d5b940.png) 
+  
+Lo cual, son aspectos clave para que las personas visitantes tengan una mejor y más precisa noción de la localización y las características del edificio al que necesitan ingresar, en relación con sus necesidades, como comer, estudiar, reunirse en lugares de estudio grupales, entre otros. 
+ 
+## Discusión y conclusiones. 
+Durante la redacción de este trabajo, se reflexionó sobre algunos atributos que pudieron contemplarse en el levantamiento de los datos y que, al igual que los mostrados, tienen carácter de importancia. Como lo son: disponibilidad de áreas de lactancia, accesibilidad para las personas con capacidades físicas diversas (discapacidad), ofrecimiento de servicios, áreas de ocio. Sin embargo, se considera positivo ofrecer a las personas un mini directorio telefónico, con lo cual, si bien ya no se facilitó esta información de primera mano, pueden realizar las consultas de interés a ese medio de contacto. 
+ 
+Se puede concluir que, por medio de la recolección estratégica de datos procedentes del mundo real, que están vinculados a una referencia espacial, y su procesamiento con sistemas de información geográfica, es posible ofrecer productos como este geo visualizador web de un mapa que facilita la representación de esos elementos espaciales o fenómenos de otra índole, que no se perciben a simple vista en el paisaje arquitectónico. Permitiendo una mayor aproximación y enriquecimiento en la comprensión de la realidad social que resguardan los elementos estructurales de un espacio geográfico. 
+ 
+## Referencias. 
+Vida, M., Moreno, A. y Cañada, R. (2011). *Geovisualización avanzada para la exploración de patrones y relaciones socio-ambientales con SIG: aplicación a la ciudad de Madrid.* INEGI. México. Recuperado de [enlace a referencia](https://n9.cl/fd7uk) 
+ 
